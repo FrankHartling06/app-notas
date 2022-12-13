@@ -10,7 +10,7 @@
   "main": "main.js",
   "scripts": {
     "start": "node cluster.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "seed": "node load.js"
   },
   "author": "",
   "license": "ISC",
