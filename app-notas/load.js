@@ -1,5 +1,3 @@
-const mongoose = require('mongoose');
-const express = require ('express');
 const database = require('./database');
 const notesDB = require ('./notes.json');
 
